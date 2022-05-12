@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rexhub/static/css/main.351b4b90.css",
+    "main.js": "/rexhub/static/js/main.8b1a57a1.js",
+    "static/media/videobg.jpg": "/rexhub/static/media/videobg.a96fbc2a6bfcb9eed040.jpg",
+    "index.html": "/rexhub/index.html",
+    "main.351b4b90.css.map": "/rexhub/static/css/main.351b4b90.css.map",
+    "main.8b1a57a1.js.map": "/rexhub/static/js/main.8b1a57a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.351b4b90.css",
+    "static/js/main.8b1a57a1.js"
+  ]
+}
